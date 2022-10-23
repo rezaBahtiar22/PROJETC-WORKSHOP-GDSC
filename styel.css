@@ -1,5 +1,6 @@
-h1{
-    background-color: blue;
-    text-align: center;
+.kotak{
+    margin-top: -22px;
+    height: 590px;
+    width: 1350px;
+    background-color: green;
 }
-
